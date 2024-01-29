@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "password": "12345",
+      "email": "ass@gmail.com",
+      "phone": "12234",
+      "address": "dndjdf",
+      "fullName": "fnskdf"
+    }
+  ]
+}
